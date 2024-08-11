@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README para um projeto de tabela periódica feita em HTML e CSS, sem incluir o código:
-
 ---
 
 # Tabela Periódica em HTML e CSS
