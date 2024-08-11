@@ -40,10 +40,4 @@ Contribuições são bem-vindas! Se você deseja ajudar a melhorar este projeto,
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
-## Contato
-
-Para dúvidas ou mais informações, você pode entrar em contato com [seu-email@example.com](mailto:seu-email@example.com).
-
----
-
 Este README fornece uma visão geral clara do projeto, instruções básicas para uso, e informações sobre contribuição e contato, sem entrar em detalhes técnicos específicos de código.
